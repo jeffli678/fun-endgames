@@ -1,7 +1,7 @@
 # fun-endgames
-A python script that searches for interesting chess endgames from chessdb.cn
+A python script that searches for interesting chess endgames from chessdb.cn.
 
-It first fetches endgame list from chessb (http://www.chessdb.cn/egtb_info.html) and then filter the endgams by the following criteria:
+It first fetches endgame list from chessb (http://www.chessdb.cn/egtb_info.html) and then filter the endgames by the following criteria:
 
 1. the length of the moves is longer than 20
 2. winning rate < 25%
